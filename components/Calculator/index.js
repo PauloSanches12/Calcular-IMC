@@ -63,7 +63,7 @@ function Calculator() {
                             label="Peso em Kg" 
                             variant="filled" 
                             fullWidth 
-                            typer="number" 
+                            type="number" 
                             value={peso}
                             onChange={handlePeso} 
                         />
