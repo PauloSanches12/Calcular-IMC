@@ -14,7 +14,7 @@ function Header() {
                         </Typography>
                     </Grid>
                     <Grid style={{ marginTop: -25 }} item xs={12} sm={6}>
-                        <img  src="/medic.png" alt="Médico e Paciente"/>
+                        <img src="/medic.png" alt="Médico e Paciente"/>
                     </Grid>
                 </Grid>
             </Container>
